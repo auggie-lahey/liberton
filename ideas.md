@@ -5,6 +5,13 @@
     + 501c2
         + https://www.irs.gov/pub/irs-tege/atg_single_parent_title_hldg_corp.pdf
     + Land Trust [501(c)(3) or 501(c)(2)???]
+        + Rural development and shared equity
+            + https://www.rd.usda.gov/files/RD-SFH-OwnershipRequirementsNotes.pdf
+            + shared equity (https://www.getahome.org/innovation/)
+        + Land trust example
+            + https://www.getahome.org/vision-and-values/
+            + https://www.findalandtrust.org/
+        + https://conservationtools.org/guides/150-what-is-a-land-trust
         + https://community-wealth.org/content/community-land-trust-clt-tools
         + https://www.rd.usda.gov/files/3555-1chapter13.pdf
         + can use USDA Loans for purchase
@@ -20,7 +27,8 @@
     + Co-ops
         + https://community-wealth.org/strategies/panel/coops/index.html
     + Community Development Corporations
-    + Community Land Trust 
+    + Community Land Trust
+        + https://community-wealth.org/content/common-ground-international-perspectives-community-land-trust-0 
     + Agrarian commons
         + https://agrariantrust.org/initiatives/agrarian-commons/structure/
     + None
@@ -30,6 +38,8 @@
 
 * USDA guarentee
     + can get up to $300k of down payment loan
+    + help for "beginning farmer" (farmed for less than 10 years)
+        + https://www.fsa.usda.gov/programs-and-services/farm-loan-programs/beginning-farmers-and-ranchers-loans/index
     + limits size to 30% of avg farm size in county
         + 75 acres for Ray County
     + FSA 
@@ -37,6 +47,7 @@
     + Higher limit right now because of COVID (only have until May '22)
         + https://www.ksal.com/higher-limit-available-for-usda-guaranteed-farm-loans/
     + federal grants as regional food hub
+        + (https://community-wealth.org/sites/clone.community-wealth.org/files/downloads/tool-usda-regional-food-hub.pdf)
     + tons of private lenders have used these programs
         + https://www.cdfifund.gov/awards/state-awards?field_mailing_state_value=27&field_program_name_value=7&field_year_ofaward_value=All&field_organization_name_value=&order=field_mailing_city&sort=asc
         + https://www.alt-cap.org/small-business-loans
@@ -48,12 +59,13 @@
             + https://www.rd.usda.gov/sites/default/files/RD_OFS_MeatProcessors_FS_7920.pdf
     + Single and multifamily housing development loans 
         + https://www.rd.usda.gov/programs-services/single-family-housing-programs/single-family-housing-guaranteed-loan-program
+        + https://www.rd.usda.gov/programs-services/multifamily-housing-programs/multifamily-housing-loan-guarantees
         + need to look at income limits
 
 
-WISCONSIN Co-op conference in november
-https://aae.wisc.edu/research/community/
-https://uwcc.wisc.edu/
+* WISCONSIN Co-op conference in november
++ https://aae.wisc.edu/research/community/
++ https://uwcc.wisc.edu/
 
 * Active area of study and growth
     + https://cltweb.org/resources/
@@ -132,6 +144,7 @@ my main idea is like ok, you can buy however much you want and within there you 
         + use fertilizers and insecticides
         + burn his trash
         + collude with govt entity X and snitch for all the things
+* Utility Queen
 
 ## Commons
 * pasture
@@ -152,11 +165,24 @@ my main idea is like ok, you can buy however much you want and within there you 
     + if 10x10 can follow permies plans exactly, 12x16 is ideal IMO
 
 ## field trips to communities for advice
+* Frats
+* Old folks homes
+* Dorms
+* Military
+
 * bear creek
 * wheaton labs
 * dancing rabbit
 * freedomlanddao (ozarkia)
 * east wind
+* long cillage
+* apex farm 
+* sputter community
+* DenCity Research
+* Greenlake
+* Apple Branch Permaculture Eco-Village
+* Andy's Place
+* Penelope Farm (Early Rise Trust)
 
 ## HOA ideas
 * all citizens over age 18 armed
@@ -164,6 +190,8 @@ my main idea is like ok, you can buy however much you want and within there you 
     + increase this every Y years
 * must produce x% of energy yourself
     + increase this every year
+* certain kinda roof?
+    + runoff plans? 
 
 
 ## Appendix 1 
