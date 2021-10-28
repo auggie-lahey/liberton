@@ -2,7 +2,7 @@
 * 1. [Definition and Purposes](#DefinitionandPurposes)
 	* 1.1. [DEFINITION](#DEFINITION)
 	* 1.2. [PURPOSES](#PURPOSES)
-	* 1.3. [Implementation](#Thedefinitionandpurposesshallbeimplementedby:)
+	* 1.3. [ Implementeation](#Implementeation)
 * 2. [Membership](#Membership)
 	* 2.1. [CLASSES OF MEMBERS](#CLASSESOFMEMBERS)
 	* 2.2. [METHODS OF ADMISSION AND EXPULSION.](#METHODSOFADMISSIONANDEXPULSION.)
@@ -85,7 +85,8 @@
   10. We are creating a society benefiting its members but also serving as an example of social organization applicable to the rest of the world.
   11. We are publicizing this lifestyle in order to serve as an example of social organization applicable to the rest of the world, and we promote the formation and growth of similar communities.
 
-###  1.3. <a name='Thedefinitionandpurposesshallbeimplementedby:'></a>The definition and purposes shall be implemented by:
+###  1.3. <a name='Implementeation'></a> Implementeation
+The definition and purposes shall be implemented by:
   1. The use of experimentation to discover and encourage the desirable behaviors for the group&#39;s members and its government.
   2. A system of internal economics that, so far as is feasible, makes material benefits of the community available to all members according to their share.
   3. A general practice respecting the liberty of each individual member to as great an extent as is consistent with the well-being of the community and the laws of the government in whose jurisdiction it resides.
