@@ -1,17 +1,78 @@
-**Definitions**
-The commons - The property held in a TBD LEGAL ENTITY for community use is referred to as &quot;the Commons&quot;
+<!-- vscode-markdown-toc -->
+* 1. [Definition and Purposes](#DefinitionandPurposes)
+	* 1.1. [DEFINITION](#DEFINITION)
+	* 1.2. [PURPOSES](#PURPOSES)
+	* 1.3. [Implementation](#Thedefinitionandpurposesshallbeimplementedby:)
+* 2. [Membership](#Membership)
+	* 2.1. [CLASSES OF MEMBERS](#CLASSESOFMEMBERS)
+	* 2.2. [METHODS OF ADMISSION AND EXPULSION.](#METHODSOFADMISSIONANDEXPULSION.)
+* 3. [USE AND DISTRIBUTION OF OUTPUTS.](#USEANDDISTRIBUTIONOFOUTPUTS.)
+* 4. [PROPERTY OWNED BY MEMBERS](#PROPERTYOWNEDBYMEMBERS)
+* 5. [Government](#Government)
+	* 5.1. [OPTIONS](#OPTIONS)
+	* 5.2. [COMMUNITY RECORDS.](#COMMUNITYRECORDS.)
+* 6. [Dissolution](#Dissolution)
+* 7. [Accounting?](#Accounting)
+* 8. [Structure](#Structure)
+	* 8.1. [Board of Directors](#BoardofDirectors)
+	* 8.2. [Area Departments and Divisions](#AreaDepartmentsandDivisions)
+		* 8.2.1. [General intent](#Generalintent)
+		* 8.2.2. [AgroForestry Department](#AgroForestryDepartment)
+		* 8.2.3. [Building, Utilities, and Grounds Department](#BuildingUtilitiesandGroundsDepartment)
+		* 8.2.4. [Security Department](#SecurityDepartment)
+	* 8.3. [Area Managers](#AreaManagers)
+		* 8.3.1. [General Job Description](#GeneralJobDescription)
+		* 8.3.2. [Finance Director](#FinanceDirector)
+		* 8.3.3. [Membership Director](#MembershipDirector)
+		* 8.3.4. [Livestock Manager](#LivestockManager)
+		* 8.3.5. [Horticulture Manager](#HorticultureManager)
+		* 8.3.6. [Grounds Manager](#GroundsManager)
+		* 8.3.7. [Firing Range Manager](#FiringRangeManager)
+		* 8.3.8. [Food Services Manager](#FoodServicesManager)
+		* 8.3.9. [Communications Manager](#CommunicationsManager)
+* 9. [Policies](#Policies)
+	* 9.1. [Elections](#Elections)
+	* 9.2. [Interim Elections](#InterimElections)
+	* 9.3. [Community Vote Counting and Ballots](#CommunityVoteCountingandBallots)
+	* 9.4. [Suffrage](#Suffrage)
+	* 9.5. [Proxies](#Proxies)
+	* 9.6. [Process for Proposing Policies](#ProcessforProposingPolicies)
+	* 9.7. [Sponsored Proposals Whose Original Sponsors Have Withdrawn Their Support](#SponsoredProposalsWhoseOriginalSponsorsHaveWithdrawnTheirSupport)
+	* 9.8. [Community Meeting Day Set by Board](#CommunityMeetingDaySetbyBoard)
+	* 9.9. [Community Decision Making](#CommunityDecisionMaking)
+	* 9.10. [Intermediate Proposal Process](#IntermediateProposalProcess)
+		* 9.10.1. [How to:](#Howto:)
+		* 9.10.2. [Purposes](#Purposes)
+	* 9.11. [Shared KITCHEN Policy](#SharedKITCHENPolicy)
+		* 9.11.1. [General Intent](#GeneralIntent)
+		* 9.11.2. [Food Safety Guidelines](#FoodSafetyGuidelines)
+		* 9.11.3. [Preparation](#Preparation)
+		* 9.11.4. [Calendar to Sign Out the Space](#CalendartoSignOuttheSpace)
+		* 9.11.5. [Clean Up](#CleanUp)
+		* 9.11.6. [Non-food Projects](#Non-foodProjects)
+		* 9.11.7. [Failure to Follow Policy](#FailuretoFollowPolicy)
+	* 9.12. [Budgets and Financial Planning](#BudgetsandFinancialPlanning)
+		* 9.12.1. [Annual Plans](#AnnualPlans)
+		* 9.12.2. [Quarterly Review](#QuarterlyReview)
+	* 9.13. [Members Sales](#MembersSales)
+	* 9.14. [Extras Sales](#ExtrasSales)
+* 10. [MISC](#MISC)
+	* 10.1. [Business Plans](#BusinessPlans)
 
-The Bylaws of the Commons
-
-# Definition and Purposes
-## DEFINITION
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+##  1. <a name='DefinitionandPurposes'></a>Definition and Purposes
+###  1.1. <a name='DEFINITION'></a>DEFINITION
 * "The Commons"
     * the property held in a TBD LEGAL ENTITY for community use of its members. It is intended as a community farm owned and operated by the members, who share its outputs and equipment, and share responsibility for the conservation of that land via regenerative agricultural practices, education, and other needs and amenities considered desirable, insofar as the community is able to provide them.
 * Community 
     * Throughout these Bylaws, when the word community is used in the sense that implies that the community makes decisions, such references shall be interpreted to mean that the central decision making body of the community shall make the decisions referred to, under the provisions of the article on Government hereof. All other references mean the collection of members.
 
 
-## PURPOSES
+###  1.2. <a name='PURPOSES'></a>PURPOSES
   1. We are creating a society which offers its members an opportunity to live freely.
   2. We are creating a society where positions of responsibility are not positions of exploitation
   3. We reject the idea that some people are seen as &quot;more equal&quot; than others.
@@ -24,17 +85,18 @@ The Bylaws of the Commons
   10. We are creating a society benefiting its members but also serving as an example of social organization applicable to the rest of the world.
   11. We are publicizing this lifestyle in order to serve as an example of social organization applicable to the rest of the world, and we promote the formation and growth of similar communities.
 
-## The definition and purposes shall be implemented by:
+###  1.3. <a name='Thedefinitionandpurposesshallbeimplementedby:'></a>The definition and purposes shall be implemented by:
   1. The use of experimentation to discover and encourage the desirable behaviors for the group&#39;s members and its government.
   2. A system of internal economics that, so far as is feasible, makes material benefits of the community available to all members according to their share.
   3. A general practice respecting the liberty of each individual member to as great an extent as is consistent with the well-being of the community and the laws of the government in whose jurisdiction it resides.
   4. An emphasis on promoting cooperation rather than competition among the members. (hmm?)
   5. A dedication to a non-violent, non-exploitative way of life for all human beings, and specifically an insistence on non-involvement of members in actions contrary to this policy.
-### In no event shall the resources or facilities of this community be used to further in any manner any project, activity, or purpose of any group or individual that is inconsistent with the purposes of this community as set forth in the Articles of Incorporation and these Bylaws.
 
-# Membership
-## CLASSES OF MEMBERS
-### There are three classes of members in the community; full members, provisional members and child members.
+In no event shall the resources or facilities of this community be used to further in any manner any project, activity, or purpose of any group or individual that is inconsistent with the purposes of this community as set forth in the Articles of Incorporation and these Bylaws.
+
+##  2. <a name='Membership'></a>Membership
+###  2.1. <a name='CLASSESOFMEMBERS'></a>CLASSES OF MEMBERS
+There are three classes of members in the community; full members, provisional members and child members:
 * A full member is a person who has been accepted as such according to the conditions of Article Two, Paragraph 2A.
     * Each full member is entitled to an equal vote on issues of override, impeachment, and Bylaws amendments.
     * To pay SOME AMOUNT.
@@ -44,7 +106,7 @@ The Bylaws of the Commons
         * Provisional members may vote when the current governmental system permits them to vote. They may not vote on issues of override, impeachment, and Bylaws amendments.
 * A child member is any member either accepted into the community or born within it who has, according to the governing process of the community, not reached a maturity when they should be expected to carry a full work load. Child members may be given fractional voting rights or full votes in specific areas by action of the central decision making body. A vote of a majority of the full members can override any committee, manager or other body which may be empowered to determine when a child member may become a full member. Child members who become adults according to our regulations may be accepted as full members in the same way as people who join as adults, with the exception that they will not be required to go through a period of provisional membership.
 
-## METHODS OF ADMISSION AND EXPULSION.
+###  2.2. <a name='METHODSOFADMISSIONANDEXPULSION.'></a>METHODS OF ADMISSION AND EXPULSION.
 * Admission The community&#39;s government shall devise and revise, at its discretion, appropriate procedures for the admission of persons to the status of provisional member, child member, and full member.
 * Full membership shall be for the life of the member, unless terminated by one of the following:
     * The voluntary resignation of a member from the community.
@@ -59,12 +121,12 @@ The Bylaws of the Commons
     * The above causes for expulsion may, but need not, be used by the central government according to its discretion, in individual cases. That is, this body may expel members for the above reasons and these reasons only, but need not expel members even for these reasons if they do not think it wise or necessary, and according to the best interests of the community at that time as they see it. They also have the option of putting an offending member back on provisional status or to institute specific mandatory behavioral programs in order to change a member&#39;s behavior. (These options exist only when a member has behaved in such a way that the alternative is expulsion.)
 * Former members of the community who left voluntarily may re-enter as provisional members under the same conditions as persons who are entering for the first time. Any person who has been expelled and wishes to reenter must get special permission from the central decision making body.
 
-# USE AND DISTRIBUTION OF OUTPUTS.
+##  3. <a name='USEANDDISTRIBUTIONOFOUTPUTS.'></a>USE AND DISTRIBUTION OF OUTPUTS.
 * The community may engage in any economic activity which it believes to be ethical, practical and legal.
 * All income from all business engaged in on the commons shall be the property of the commons and shall be expended or distributed according to its laws, customs and discretion. It shall not be the property of any individual.
 * All community expenses, business and otherwise, shall be obligations of the commons, and no individual member shall bear private obligations for them.
 
-# PROPERTY OWNED BY MEMBERS
+##  4. <a name='PROPERTYOWNEDBYMEMBERS'></a>PROPERTY OWNED BY MEMBERS
 * All funds received by members before, during or after their membership, shall be the private property of that member alone and not the community. This includes, but is not limited to:
     * dividends from stocks and bonds
     * interest on savings
@@ -86,8 +148,8 @@ The Bylaws of the Commons
 
 * Items which have not specifically been mentioned in this section should be sided with the owner.
 
-# Government
-## OPTIONS
+##  5. <a name='Government'></a>Government
+###  5.1. <a name='OPTIONS'></a>OPTIONS
 
 The commons may, within the confines of these Bylaws, govern itself by any reasonable means which its members desire, and may, under any of such systems, either elect or appoint officers, committees, or decision makers, as it sees fit. Also, it may change its form of government at any time and as many times as it wishes, provided only the following:
 
@@ -101,7 +163,7 @@ After five years of any one form of government, a vote of confidence shall be ca
 
 All meetings at which any decision is going to be made, except those portions of meetings when decisions about specific individuals are being made, shall be open to any member who chooses to attend. Central decision making body meetings will be posted with an agenda, at least 36 hours in advance, except for emergency meetings.
 
-## COMMUNITY RECORDS.
+###  5.2. <a name='COMMUNITYRECORDS.'></a>COMMUNITY RECORDS.
 * The following community records will be available for study by any community member:
 
     - Legal documents.
@@ -113,11 +175,11 @@ All meetings at which any decision is going to be made, except those portions of
 
 * Specific pieces of information can be withheld from anyone except full members for designated periods of time by a decision of the central decision making body.
 
-# Dissolution
+##  6. <a name='Dissolution'></a>Dissolution
 
 The community may be dissolved by a two-thirds majority of the full members. In the event of the dissolution of the community, any assets remaining after the payment of the community&#39;s debts shall be divided equally among the existing full members.
 
-# Accounting?
+##  7. <a name='Accounting'></a>Accounting?
 
 Each year the community will allocate money amounting to no less than the amount of depreciation of the community&#39;s property and equipment during the preceding year. This annual allocation is to go in to a fund which may be drawn on at any time but only for the following types of expenditures:
 
@@ -132,8 +194,8 @@ This annual allocation may not be waived during any year unless substantial cuts
 
 Any money in the fund which will not be needed in the near term for the purposes stated in Paragraph 1 may be used by the community for short term cash needs (10 months or less).
 
-# Structure
-## Board of Directors
+##  8. <a name='Structure'></a>Structure
+###  8.1. <a name='BoardofDirectors'></a>Board of Directors
 
 - The Board functions as the overall policy and planning group for the community. The Board is ultimately responsible for the management of the commons and oversees all operations of the commons. It may delegate responsibilities to other groups or individuals.
 - The Board will be made up of five full members. Each member&#39;s term will be one year. All directors will be elected in the way other managers are elected.
@@ -197,9 +259,9 @@ Any money in the fund which will not be needed in the near term for the purposes
   - Social emergencies
   - Member assistance
 
-## Area Departments and Divisions
+###  8.2. <a name='AreaDepartmentsandDivisions'></a>Area Departments and Divisions
 
-### General intent
+####  8.2.1. <a name='Generalintent'></a>General intent
 
 Departments will handle resources for the division(s) within their area. They will be expected to balance the interests of the community with those of the department. Because of the flexibility in allocating resources, departments will be able to focus resources more effectively. If a department has no divisions, the manager is a department head. All department and division managers are elected.
 
@@ -225,9 +287,9 @@ Departments will handle resources for the division(s) within their area. They wi
         - Communications Division
         - Firing Range Division
 
-### AgroForestry Department
+####  8.2.2. <a name='AgroForestryDepartment'></a>AgroForestry Department
 
-#### General Intent
+#####  9.2.1. <a name='GeneralIntent'></a>General Intent
 
 The AgroForestry Department is established to implement the Silvopasture Plan (needs to be created and attached). The AgroForestry Department is broken down into the Livestock Division and Horticulture Division. If the community and its resources grow, the Livestock and Horticulture Divisions should be broken down into further specialized subdivisions if the number of number of managers exceeds 3. They should be trying to increase the calories produced while taking into account the communities tastes and dietary constraints to the extent possible within the budget authorized. Variety and economy should be their first goals, closely followed by regenerative agricultural practices. For example, let&#39;s not produce grain on 20 acres if we can buy the same product for $50.
 
@@ -254,7 +316,7 @@ SOME AREA is a designated agroforestry zone, to be managed by this department bo
 
 AgroForestry Department shall be given a budget each fiscal year of no less than $Y to purchase necessary equipment (budget needs to be created and attached).
 
-#### Livestock Division
+#####  9.2.2. <a name='LivestockDivision'></a>Livestock Division
 * Responsible for:
     * Ruminants
     * Poultry
@@ -280,11 +342,11 @@ If a guest&#39;s pet kills livestock and the guest does not pay the fee, it is t
 
 CANT DECIDED IF THIS DEPT OR BUG SHOULD BE RESPONSIBLE FOR FENCING AND SHEDS
 
-#### Horticulture Division
+#####  9.2.3. <a name='HorticultureDivision'></a>Horticulture Division
 
-### Building, Utilities, and Grounds Department
+####  8.2.3. <a name='BuildingUtilitiesandGroundsDepartment'></a>Building, Utilities, and Grounds Department
 
-#### General Intent
+#####  9.3.1. <a name='GeneralIntent-1'></a>General Intent
 
 The BUG department is created to maintain, improve and commission new structures in the commons. This department will have a BUG Department head (which can run lower divisions) the purpose for which is the responsibilities of this department can be urgent and require certain kinds of expertise.
 
@@ -322,7 +384,7 @@ Authority to:
 BUG Department shall be given a budget each fiscal year of no less than $Y to purchase necessary equipment (budget needs to be created and attached).
 
 
-#### Food Services Division
+#####  9.3.2. <a name='FoodServicesDivision'></a>Food Services Division
 
 General Intent:
 
@@ -336,7 +398,7 @@ _Responsible for:_
 - Kitchen maintenance
 - Solicits purchasing and menu feedback from the community.
 
-#### Grounds Division
+#####  9.3.3. <a name='GroundsDivision'></a>Grounds Division
 
 General Intent:
 
@@ -350,8 +412,8 @@ Responsible for:
 - Clean up of all outdoor areas. When possible work in conjunction and cooperation with area managers and/or project managers.
 - Prioritize jobs and solicit labor accordingly.
 
-### Security Department
-#### Firing Range Division
+####  8.2.4. <a name='SecurityDepartment'></a>Security Department
+#####  9.4.1. <a name='FiringRangeDivision'></a>Firing Range Division
 
 General Intent:
 
@@ -365,7 +427,7 @@ Responsible for:
 
 Prioritize jobs and solicit labor accordingly. 
 
-#### Communications Division
+#####  9.4.2. <a name='CommunicationsDivision'></a>Communications Division
 
 General intent: 
 
@@ -378,8 +440,8 @@ Responsible for:
 
 Prioritize jobs and solicit labor accordingly
 
-## Area Managers 
-### General Job Description
+###  8.3. <a name='AreaManagers'></a>Area Managers 
+####  8.3.1. <a name='GeneralJobDescription'></a>General Job Description
 
 - In as much as is possible, those members who have, or are willing and able to learn, the skills necessary for the management of the area in question will be encouraged to be candidates for the elected manager ships. Continuity will be an important consideration, in pursuit of which, managers of all crucial areas are encouraged to have in place a back-up, manager-trainee, assistant manager or co-manager.
 - The competence of the managers will have a key impact on the performance of the area. The MT will support managers with management educational opportunities, and will assist in the development of goals, objectives and priorities for each manager&#39;s area.
@@ -402,7 +464,7 @@ Prioritize jobs and solicit labor accordingly
 
 If there is no job description, the managers duties are that of the division and they are the division head.
 
-### Finance Director 
+####  8.3.2. <a name='FinanceDirector'></a>Finance Director 
 
 Responsible for:
 
@@ -429,7 +491,7 @@ General:
 - Appoint sub committees and managers in the finance areas, with the Board&#39;s and community&#39;s approval.
 - Use money and labor within community guidelines.
 
-### Membership Director
+####  8.3.3. <a name='MembershipDirector'></a>Membership Director
 
 General Intent
  The Membership Director is responsible for recruitment, the visitor program, and general membership policy implementation, and as such:
@@ -441,21 +503,21 @@ General Intent
 - Arranges for the assistance to members who have special needs for assistance, either on-going or in emergencies.
 - May appoint temporary committees to advise on policy and implementation of policy and legislation in the membership area.
 
-### Livestock Manager
+####  8.3.4. <a name='LivestockManager'></a>Livestock Manager
 
-### Horticulture Manager
+####  8.3.5. <a name='HorticultureManager'></a>Horticulture Manager
 
-### Grounds Manager
+####  8.3.6. <a name='GroundsManager'></a>Grounds Manager
 
-### Firing Range Manager
+####  8.3.7. <a name='FiringRangeManager'></a>Firing Range Manager
 
-### Food Services Manager
+####  8.3.8. <a name='FoodServicesManager'></a>Food Services Manager
 
-### Communications Manager
+####  8.3.9. <a name='CommunicationsManager'></a>Communications Manager
 
-# Policies
+##  9. <a name='Policies'></a>Policies
 
-## Elections
+###  9.1. <a name='Elections'></a>Elections
 
 In addition to the area managers, these other positions are elected by the community:
 
@@ -478,13 +540,13 @@ If folks feel the need to, they can appeal an appointment or branch election to 
 
 All folks elected or appointed, may designate a deputy when they need to (except the Directors).
 
-## Interim Elections
+###  9.2. <a name='InterimElections'></a>Interim Elections
 
 When a managerial post (or any other elected position) is vacated, the Board will post the position for interim election. There will be a seven day period for members to sign up for the position. Then a vote is posted for seven days. The elected member will then serve out the remainder of the previous manager&#39;s term.
 
 The Board or its designated substitute(s) will maintain responsibility for the position in question in the intervening two weeks.
 
-## Community Vote Counting and Ballots
+###  9.3. <a name='CommunityVoteCountingandBallots'></a>Community Vote Counting and Ballots
 
 - Community Votes are non-membership votes that are sponsored and supervised by the Board. Full Members, Voting Provisional Members, and Voting Child Members are all eligible to vote in Community Votes.
 - The Board will have the combination to the Community Ballot Box and will change the combination at each Board Member rotation. The key to change the combination will be kept in the safe and used by the Board Chair to change the combination as needed.
@@ -497,7 +559,7 @@ The Board or its designated substitute(s) will maintain responsibility for the p
 - All other ballots will be kept in the Board file cabinet in the old shipping office.
 - No policy/legislation, pregnancy, or election votes will be confidential. All membership votes will be confidential. Ballot results will be posted publicly, with the name of each participant and their vote, for 10 days before being moved to the Board filing cabinet.
 
-## Suffrage
+###  9.4. <a name='Suffrage'></a>Suffrage
 
 Full Members have 1 vote
 
@@ -508,13 +570,13 @@ Child members have ¼ vote
 
 People shall be entitled to the same vote they have at community meetings in elections.
 
-## Proxies
+###  9.5. <a name='Proxies'></a>Proxies
 
 When a voting member is away they may leave a proxy with another member. A proxy gives one the right to vote for and in behalf of the absent member. The proxy may be exercised if the member is gone for the duration of a voting period, whether it be a membership vote, election, or proposal ballot. It does not apply in the case of procedural votes in community meeting. The member holding the proxy may vote in whatever way they feel appropriate (need not vote in the way that the absent member would wish and may exercise the proxy selectively or not at all). The proxy must be signed and dated and must indicate the name of the person who holds the proxy. The proxy must be shown to the person who counts the vote in question.
 
 In addition, if a voting member is absent for the duration of any sort of vote mentioned above, they may register their vote on the phone with a Board member, or the membership manager in the case of a membership vote. This must happen while the vote is in progress. If the member who calls in a vote has also left a proxy, the vote called in is the one that counts. One may also send in a vote by e-mail; to be valid, a copy of the vote must be put in the ballot box before the vote is counted.
 
-## Process for Proposing Policies
+###  9.6. <a name='ProcessforProposingPolicies'></a>Process for Proposing Policies
 
 - Policy proposals posted by the Board or by Managers become effective after 10 days unless concerns are expressed in writing to the Board by 10% of the voting members, the same percentage that is required to bring a proposal to community meeting.
 - After a policy has hung and passed, a copy of the policy should be delivered to the Board for record keeping. If this does not happen, the policy will not be recognized because there is almost no way to find proof of the policy in the future. It is the responsibility of the person who proposed the policy to make sure the Board gets a copy for record keeping.
@@ -526,15 +588,15 @@ In addition, if a voting member is absent for the duration of any sort of vote m
 - Any petition which is fully signed by two-thirds of full members must hang on the back board for 48 hours before being declared fully-sponsored by a board member. During this 48 hour period, members may add or remove their name. At the end of the 48 hours, if the petition still has the required amount of signatures, it can then be declared as fully sponsored by a board member. If the petition does not have the required amount of signatures, the petition is dead and must be re-petitioned.
 - A fully-signed petition will not become valid until it has hung for 48 hours after having a Board member sign off on it.
 
-## Sponsored Proposals Whose Original Sponsors Have Withdrawn Their Support
+###  9.7. <a name='SponsoredProposalsWhoseOriginalSponsorsHaveWithdrawnTheirSupport'></a>Sponsored Proposals Whose Original Sponsors Have Withdrawn Their Support
 
 Sponsored proposals whose original proponents have withdrawn their support will be removed from the stack of sponsored legislation and destroyed after two weeks unless another member wishes to take on sponsorship of the proposal and present it.
 
-## Community Meeting Day Set by Board
+###  9.8. <a name='CommunityMeetingDaySetbyBoard'></a>Community Meeting Day Set by Board
 
 The day and time of day of Community meeting will be set by the Board after a binding poll of the membership.
 
-## Community Decision Making
+###  9.9. <a name='CommunityDecisionMaking'></a>Community Decision Making
 
 - Items intended for community meeting consideration will require the signatures of 10% of the voting members or be sponsored by the Board in an urgent or emergency situation, the reasons being posted.
 - A proposal must be posted for at least 10 days prior to the community meeting at which it is considered, except in the case of urgent or emergency proposals as determined by the Board.
@@ -555,8 +617,8 @@ The day and time of day of Community meeting will be set by the Board after a bi
 - &quot;Any proposal that has more yes votes than no votes, but fails due to low participation, will have its voting period extended by two days.&quot;
 - If it does not meet these requirements, it is considered a failed vote and will not be extended.
 
-## Intermediate Proposal Process
-### How to:
+###  9.10. <a name='IntermediateProposalProcess'></a>Intermediate Proposal Process
+####  9.10.1. <a name='Howto:'></a>How to:
 - A proposal is posted for signatures
 - If the proposal gets 51% of voting members signatures, it can bypass community meeting. Instead it will go to the board meeting. The board meeting will only need the requisite three board members present, as stated in legislation, to be held. All community members will be invited to these meeting, with no exception. The board will post a note on the day board at least 5 days in advance of the meeting.
 - The proposal must hang for 7 days after being fully sponsored.
@@ -566,7 +628,7 @@ The day and time of day of Community meeting will be set by the Board after a bi
 - Only items to go for vote can use this process (i.e. no discussion meetings)
 - All membership issues are excluded he sponsor of the proposal can choose to bypass this process, and take the item to community meeting instead.
 
-### Purposes
+####  9.10.2. <a name='Purposes'></a>Purposes
 - Before community meeting, the Board will encourage members with ideas for changes in legislation to do the following:
   - Post the idea to see if there is interest and/or comments.
   - Set up a focus meeting of those who are interested to discuss the idea and possibly formulate a draft proposal.
@@ -606,9 +668,9 @@ The day and time of day of Community meeting will be set by the Board after a bi
   - If the community meeting would like policy to address the subject, the appropriate manager or committee (or the Board) will be asked to develop a draft policy.
   - If legislation is desired, then a committee of volunteers will be asked to draft legislation which will be brought back to meeting after being posted for the usual period. It will not require signatures to come back to meeting.
 
-## Shared KITCHEN Policy
+###  9.11. <a name='SharedKITCHENPolicy'></a>Shared KITCHEN Policy
 
-### General Intent
+####  9.11.1. <a name='GeneralIntent'></a>General Intent
 
 To provide a set of rules for the use of both the indoor and outdoor food processing space used for a large variety of projects including (but not limited to)
 
@@ -622,7 +684,7 @@ To provide a set of rules for the use of both the indoor and outdoor food proces
 
 Those who use it need to be considerate of each other&#39;s projects, as well as aware of general food safety guidelines to prevent cross contamination. Cross contamination could be devastating to some projects, as well as dangerous to our health.
 
-### Food Safety Guidelines
+####  9.11.2. <a name='FoodSafetyGuidelines'></a>Food Safety Guidelines
 
 The following guidelines should be stressed to any worker dealing with food:
 
@@ -637,7 +699,7 @@ The following guidelines should be stressed to any worker dealing with food:
   - Cook — Cook to proper temperatures.
   - Chill — Refrigerate promptly.
 
-### Preparation
+####  9.11.3. <a name='Preparation'></a>Preparation
 
 Always wash hands with warm water and soap for 20 seconds before and after handling food.
 
@@ -647,7 +709,7 @@ Sanitize cutting boards, utensils, and countertops (see &quot;Clean Up&quot; sec
 
 Marinate meat and poultry in a covered dish in the refrigerator.
 
-### Calendar to Sign Out the Space
+####  9.11.4. <a name='CalendartoSignOuttheSpace'></a>Calendar to Sign Out the Space
 
 A calendar system will help keep Kitchen clean and functioning smoothly. This is to ensure that the space will be available, and to prevent more than one project from happening at the same time. When signing out the space, please use the calendar.
 
@@ -656,7 +718,7 @@ Whoever has the space signed out gets priority; if you are trying to use the kit
 
 If you have any works in progress, be sure to label your project clearly. Note **what** you are making; include the **date** , and **who** is responsible for it. _Unlabeled projects are subject to being discarded._
 
-### Clean Up
+####  9.11.5. <a name='CleanUp'></a>Clean Up
 
 You are responsible for clean up of any and all messes that you make.
 
@@ -672,17 +734,17 @@ _Sweep the floor_. Also _mop the floor_ if you&#39;ve processed meat, or spilled
 
 _Please don&#39;t use bleach._ Use other cleaning methods such as hot soapy water, rubbing alcohol, hydrogen peroxide, or vinegar. If you feel you must use bleach use the proper dilution of one tablespoon of bleach to one gallon of water and always use **COLD** water.
 
-### Non-food Projects
+####  9.11.6. <a name='Non-foodProjects'></a>Non-food Projects
 
 If you have a project that you would like to do in kitchen that is not food related (like making candles or soap, for example), please getthe Food Services Manager permission first. It is very important that we keep non-food safe and food-safe supplies and equipment separate.
 
-### Failure to Follow Policy
+####  9.11.7. <a name='FailuretoFollowPolicy'></a>Failure to Follow Policy
 Failure to follow this policy, or even just general disrespect for the space, may result in being asked to not use the kitchen anymore.
 
-## Budgets and Financial Planning
+###  9.12. <a name='BudgetsandFinancialPlanning'></a>Budgets and Financial Planning
 
 Ultimate responsibility for the overall financial planning of the commons will lie with the Community and its members.
-### Annual Plans
+####  9.12.1. <a name='AnnualPlans'></a>Annual Plans
 
 An Annual Plan (AP) will be made by Community each year, specifying an amount per budget. The Board and Finance Manager will make every effort to see that an Annual Plan has been passed by Community by or as near to SOME DATE as is practically possible. All departments are required to submit annual plans by 1 MONTH PRIOR TO DATE.
 
@@ -696,7 +758,7 @@ When the Plan is &quot;complete&quot;, a vote of those members at the meeting ma
 
 Line items are NOT part of the overall plan vote, and are voted on individually. They pass or do not pass in the same manner the overall Plan does, excepting that if the overall Plan is rejected by the members, ALL line items are sent back to the Annual Plan meeting whether they passed on the first vote or not.
 
-### Quarterly Review
+####  9.12.2. <a name='QuarterlyReview'></a>Quarterly Review
 
 Each Quarter, the Finance Manager will request that the Board schedule a Quarterly Review (QR) meeting. At that time, the FM will present, to the best possible accuracy, what has been spent from each budget through the quarter in question, and the updated picture of Community&#39;s monies, debts etc. that is presented at Annual Plan meeting.
 
@@ -710,7 +772,7 @@ As long as an AP or QR meeting is not on the stack at the time, any proposal may
 
 Any expense outside of these meetings in the amount of $2,000 or more must be discussed in a community meeting before it can be funded.
 
-## Members Sales
+###  9.13. <a name='MembersSales'></a>Members Sales
 
 Outputs of the commons will be given to the members based:
 
@@ -722,11 +784,11 @@ Food services department gets first dibs for preservation and prep.
 
 Relatives, friends and visitors pay wholesale prices for everything (&quot;wholesale&quot; prices are half way between retail prices and cost).
 
-## Extras Sales
+###  9.14. <a name='ExtrasSales'></a>Extras Sales
 
 If outsiders want extras the price will be determined by the food services manager and the finance manager. Cash or crypto only. The funds go directly into the commons account to be allocated at the next budget meeting.
 
-# MISC
-## Business Plans
+##  10. <a name='MISC'></a>MISC
+###  10.1. <a name='BusinessPlans'></a>Business Plans
 
 There needs to be some process for people who are not managers to like start a business and use the commons, but not community funds. EX someone wants to graze alpacas with our herd or someone wants to start lessons at the firing range. Need to come up with a &quot;lease&quot; structure.
